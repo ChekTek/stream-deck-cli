@@ -1,2 +1,2 @@
-# stream-deck-cli
-A CLI for creating Stream Deck plugins.
+A sample command-line application with an entrypoint in `bin/`, library code
+in `lib/`, and example unit test in `test/`.
